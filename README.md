@@ -7,7 +7,7 @@
 [Homematic](http://www.homematic.com/) is a series of Smart Home devices from the german manufacturer [eQ-3](http://www.eq-3.de). 
 
 
-## Table of Contents
+## Contents
 
 - [Community Resources](#community-resources)
 - [Mobile Apps](#mobile-apps)
