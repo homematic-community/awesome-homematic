@@ -1,7 +1,5 @@
 # Awesome Homematic
 
-[![Build Status](https://travis-ci.org/hobbyquaker/awesome-homematic.svg?branch=master)](https://travis-ci.org/hobbyquaker/awesome-homematic)
-
 > A curated list of Homematic related links
 
 [Homematic](http://www.homematic.com/) is a series of Smart Home devices from the german manufacturer [eQ-3](http://www.eq-3.de). 
