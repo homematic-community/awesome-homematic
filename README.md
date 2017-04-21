@@ -64,8 +64,8 @@
 
 ## Misc Software
 
-* [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC.
 * [CCU Historian](http://www.ccu-historian.de/) - Long term archive and graphing solution.
+* [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC.
 * [homematic-manager](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear).
 
 
