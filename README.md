@@ -1,5 +1,7 @@
 # Awesome Homematic
 
+[![Build Status](https://travis-ci.org/hobbyquaker/awesome-homematic.svg?branch=master)](https://travis-ci.org/hobbyquaker/awesome-homematic)
+
 > A curated list of Homematic related links
 
 [Homematic](http://www.homematic.com/) is a series of Smart Home devices from the german manufacturer [eQ-3](http://www.eq-3.de). 
@@ -20,9 +22,9 @@
 
 ## Community ressources 
 
-* [Homematic Forum](https://www.homematic-forum.de) - Discussion Forums.
-* [Homematic Inside](http://www.homematic-inside.de) - News, Blog and more.
-* [Wikimatic](http://www.wikimatic.de) - Community Wiki.
+* [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
+* [Homematic Inside](https://www.homematic-inside.de/) - News, Blog and more.
+* [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
 
 
 ## Mobile Apps
@@ -30,13 +32,13 @@
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
 * [Homedroid](http://www.homedroid.de/) - **$** Android
 * [homeNOW](http://homenow.at) - **$** Android
-* [Orbylon](http://www.orbylon.de/orbylon) - **$** iOS, Android, Windows Phone
+* [Orbylon](https://www.orbylon.de/orbylon) - **$** iOS, Android, Windows Phone
 * [Pocket Control](https://www.penzler.de) - **$** iOS
 
 
 ## CCU Alternatives
 
-* [Homegear](http://www.homegear.eu/) - Homegear is a free and open source program to interface your smart home devices with your home automation software or your own scripts.
+* [Homegear](https://homegear.eu/) - Homegear is a free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - A lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 * [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container.
 
@@ -78,7 +80,7 @@
 
 ## Generic Smart Home Software
 
-* [ioBroker](http://www.iobroker.net)
+* [ioBroker](http://www.iobroker.net/?lang=de)
 * [IP-Symcon](https://www.symcon.de/) - **$**
 * [Mediola](http://www.mediola.com/) - **$**
 * [OpenHAB](https://www.openhab.org/)
