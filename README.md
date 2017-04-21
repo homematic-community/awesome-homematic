@@ -58,21 +58,21 @@
 * [homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform.
 * [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - A virtual Interface for Homematic CCU with plugins to connect other devices to your CCU.
 * [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
-* [hmcompanion](https://github.com/owagner/hmcompanion)
+* [hmcompanion](https://github.com/owagner/hmcompanion) - Generic telnet based interface.
 * [node-red-contrib-homematic](https://github.com/firsttris/node-red-contrib-homematic) - Integrate your Homematic devices with [Node-RED](https://nodered.org).
 
 
 ## Misc Software
 
-* [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) - BIN-RPC Converter für den Einsatz für CUXD/Homematic.
-* [CCU Historian](http://www.ccu-historian.de/) - 
-* [homematic-manager](https://github.com/hobbyquaker/homematic-manager)
+* [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC.
+* [CCU Historian](http://www.ccu-historian.de/) - Long term archive and graphing solution.
+* [homematic-manager](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear).
 
 
 ## Software Modules
 
-* [binrpc](https://github.com/hobbyquaker/binrpc)
-* [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc)
+* [binrpc](https://github.com/hobbyquaker/binrpc) - xmlrpc_bin protocol client and server node module.
+* [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) - xmlrpc client and server node module.
 * [pmatic](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
 
 
