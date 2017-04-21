@@ -38,7 +38,7 @@
 
 ## CCU Alternatives
 
-* [Homegear](https://homegear.eu/) - Homegear is a free and open source program to interface your smart home devices with your home automation software or your own scripts.
+* [Homegear](https://www.homegear.eu/index.php/Main_Page) - Homegear is a free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - A lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 * [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container.
 

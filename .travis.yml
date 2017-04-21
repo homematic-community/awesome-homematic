@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --white-list creativecommons
+  - awesome_bot README.md --allow-dupe --white-list creativecommons,homegear.eu,travis-ci.org
