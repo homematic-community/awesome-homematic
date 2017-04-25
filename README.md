@@ -74,14 +74,16 @@
 * [binrpc](https://github.com/hobbyquaker/binrpc) - xmlrpc_bin protocol client and server node module.
 * [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) - xmlrpc client and server node module.
 * [pmatic](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
-
+* [pyhomematic](https://github.com/danielperna84/pyhomematic) - Python 3 Interface to interact with Homematic devices.
 
 ## Generic Smart Home Software
 
+* [Home Assistant](https://home-assistant.io/)
 * [ioBroker](http://www.iobroker.net/?lang=de)
 * [IP-Symcon](https://www.symcon.de/) - **$**
 * [Mediola](http://www.mediola.com/) - **$**
 * [OpenHAB](https://www.openhab.org/)
+* [pimatic](https://pimatic.org/)
 
 
 ## Contribute
