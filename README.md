@@ -10,6 +10,7 @@
 - [Community Resources](#community-resources)
 - [Mobile Apps](#mobile-apps)
 - [CCU Alternatives](#ccu-alternatives)
+- [Alternative Sensors and Actuators](#alternative-sensors-and-actuators)
 - [CCU Addons](#ccu-addons)
 - [Interfacing Software](#interfacing-software)
 - [Misc Software](#misc-software)
@@ -41,16 +42,24 @@
 * [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container.
 
 
+## Alternative Sensors and Actuators
+
+* [Asksin_HM_LC_Sw1PBU_FM](https://github.com/jabdoa2/Asksin_HM_LC_Sw1PBU_FM) - Alternative Open Source Firmware for HM_LC_Sw1PBU_FM.
+* [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Several Homebrew Sensors/Actuators for Homematic Wired.
+* [WIFFI-WZ](https://www.stall.biz/project/der-wiffi-wz-2-0-der-wohnzimmersensor) - Multi Sensor for the living room.
+
+
 ## CCU Addons
 
 * [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - FS20, ... (**$** EnOcean, ...)
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - A HomeMatic CCU Addon for sending Emails.
-* [Homeputer](https://www.contronics.de/shop/Zentralen-und-Software/homeputer-CL-Studio-4-0-Software.html) - **$**
-* [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
-* [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
 * [hm-print](https://github.com/litti/hm-print) - Print CCU Programs.
+* [Homeputer](https://www.contronics.de/shop/Zentralen-und-Software/homeputer-CL-Studio-4-0-Software.html) - **$**
+* [homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting.
+* [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
+* [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
 
 
 ## Interfacing Software
@@ -65,9 +74,10 @@
 ## Misc Software
 
 * [CCU Historian](http://www.ccu-historian.de/) - Long term archive and graphing solution.
+* [hm-simulator](https://github.com/hobbyquaker/hm-simulator) - Simulates (partly) a Homematic CCU.
 * [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC.
 * [homematic-manager](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear).
-
+* [language-homematic](https://github.com/Ayngush/language-homematic) - Adds syntax highlighting and snippets to HomeMatic Script files in Atom.
 
 ## Software Modules
 
@@ -79,8 +89,8 @@
 ## Generic Smart Home Software
 
 * [Home Assistant](https://home-assistant.io/)
-* [ioBroker](http://www.iobroker.net/?lang=de)
 * [IP-Symcon](https://www.symcon.de/) - **$**
+* [ioBroker](http://www.iobroker.net/?lang=de)
 * [Mediola](http://www.mediola.com/) - **$**
 * [OpenHAB](https://www.openhab.org/)
 * [pimatic](https://pimatic.org/)
