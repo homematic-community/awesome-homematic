@@ -65,7 +65,7 @@
 ## Interfacing Software
 
 * [homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform.
-* [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - A virtual Interface for Homematic CCU with plugins to connect other devices to your CCU.
+* [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - A virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
 * [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
 * [hmcompanion](https://github.com/owagner/hmcompanion) - Generic telnet based interface.
 * [node-red-contrib-homematic](https://github.com/firsttris/node-red-contrib-homematic) - Integrate your Homematic devices with [Node-RED](https://nodered.org).
