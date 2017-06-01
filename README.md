@@ -83,6 +83,7 @@
 ## Software Modules
 
 * [binrpc](https://github.com/hobbyquaker/binrpc) - xmlrpc_bin protocol client and server node module.
+* [homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api) - A python wrapper for the homematicIP REST API (Cloud / Access Point Based).
 * [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) - xmlrpc client and server node module.
 * [pmatic](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
 * [pyhomematic](https://github.com/danielperna84/pyhomematic) - Python 3 Interface to interact with Homematic devices.
