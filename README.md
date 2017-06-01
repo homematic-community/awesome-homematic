@@ -45,6 +45,7 @@
 ## Alternative Sensors and Actuators
 
 * [Asksin_HM_LC_Sw1PBU_FM](https://github.com/jabdoa2/Asksin_HM_LC_Sw1PBU_FM) - Alternative Open Source Firmware for HM_LC_Sw1PBU_FM.
+* [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired comaptible Devices
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Several Homebrew Sensors/Actuators for Homematic Wired.
 * [WIFFI-WZ](https://www.stall.biz/project/der-wiffi-wz-2-0-der-wohnzimmersensor) - Multi Sensor for the living room.
 
