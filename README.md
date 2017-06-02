@@ -94,6 +94,8 @@
 
 ## Generic Smart Home Software
 
+This Smart Home Software supports Homematic:
+
 * [Home Assistant](https://home-assistant.io/)
 * [IP-Symcon](https://www.symcon.de/) - **$**
 * [ioBroker](http://www.iobroker.net/?lang=de)
