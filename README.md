@@ -29,8 +29,8 @@
 
 ## Documentation
 
-* [Dissecting HomeMatic AES](https://git.zerfleddert.de/hmcfgusb/AES/) - BidCos AES description.
-* [Expert Parameters](https://www.homematic-inside.de/software/download/item/vortrag-expertenparameter-2017) - "Expert Parameters" for direct links (download links at the bottom of the page).
+* [Dissecting HomeMatic AES](https://git.zerfleddert.de/hmcfgusb/AES/) - BidCos Protocol AES Handshake description.
+* [Expert Parameters](https://www.homematic-inside.de/software/download/item/vortrag-expertenparameter-2017) - "Expert Parameters" and Virtual Channels for Direct Links (download links at the bottom of the page).
 * [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) - Inofficial Homematic Script Reference.
 
 
@@ -45,7 +45,7 @@
 
 ## CCU Alternatives
 
-* [hmcon](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. 
+* [Hmcon](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. 
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) - Homegear is a free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - A lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 * [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container.
