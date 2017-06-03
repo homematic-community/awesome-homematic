@@ -47,7 +47,7 @@
 ## Alternative Sensors and Actuators
 
 * [Asksin_HM_LC_Sw1PBU_FM](https://github.com/jabdoa2/Asksin_HM_LC_Sw1PBU_FM) - Alternative Open Source Firmware for HM_LC_Sw1PBU_FM.
-* [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired comaptible Devices.
+* [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired compatible Devices.
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Several Homebrew Sensors/Actuators for Homematic Wired.
 * [NewAskSin](https://github.com/trilu2000/NewAskSin) - An Arduino-Library to create Homematic RF (BidCoS) compatible Devices.
 * [WIFFI-WZ](https://www.stall.biz/project/der-wiffi-wz-2-0-der-wohnzimmersensor) - Multi Sensor for the living room.
@@ -85,10 +85,10 @@
 
 ## Software Modules
 
-* [binrpc](https://github.com/hobbyquaker/binrpc) - xmlrpc_bin protocol client and server node module.
+* [binrpc](https://github.com/hobbyquaker/binrpc) - xmlrpc_bin protocol client and server Node.js module.
 * [hmcfgusb](https://git.zerfleddert.de/cgi-bin/gitweb.cgi/hmcfgusb) - utilities to use the HM-CFG-USB(2) on Linux/Unix.
 * [homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api) - A python wrapper for the homematicIP REST API (Cloud / Access Point Based).
-* [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) - xmlrpc client and server node module.
+* [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) - xmlrpc client and server Node.js module.
 * [pmatic](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
 * [pyhomematic](https://github.com/danielperna84/pyhomematic) - Python 3 Interface to interact with Homematic devices.
 
