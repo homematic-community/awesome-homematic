@@ -8,6 +8,7 @@
 ## Contents
 
 - [Community Resources](#community-resources)
+- [Documentation](#documentation)
 - [Mobile Apps](#mobile-apps)
 - [CCU Alternatives](#ccu-alternatives)
 - [Alternative Sensors and Actuators](#alternative-sensors-and-actuators)
@@ -16,7 +17,6 @@
 - [Misc Software](#misc-software)
 - [Software Modules](#software-modules)
 - [Generic Smart Home Software](#generic-smart-home-software)
-- [Misc](#misc)
 - [License](License)
 
 
@@ -25,6 +25,13 @@
 * [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog and more.
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
+
+
+## Documentation
+
+* [Dissecting HomeMatic AES](https://git.zerfleddert.de/hmcfgusb/AES/) - BidCos AES description.
+* [Expert Parameters](https://www.homematic-inside.de/software/download/item/vortrag-expertenparameter-2017) - "Expert Parameters" for direct links (download links at the bottom of the page).
+* [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) - Inofficial Homematic Script Reference.
 
 
 ## Mobile Apps
@@ -103,11 +110,6 @@ This Smart Home Software supports Homematic:
 * [Mediola](http://www.mediola.com/) - **$**
 * [OpenHAB](https://www.openhab.org/)
 * [pimatic](https://pimatic.org/)
-
-
-## Misc
-
-* [Dissecting HomeMatic AES](https://git.zerfleddert.de/hmcfgusb/AES/) - BidCos AES description.
 
 
 ## Contribute
