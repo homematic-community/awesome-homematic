@@ -55,7 +55,7 @@
 
 ## CCU Addons
 
-* [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - FS20, ... (**$** EnOcean, ...)
+* [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - The "Leatherman" for the CCU. Connects FS20, ... (**$** EnOcean, ...)
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - A HomeMatic CCU Addon for sending Emails.
 * [hm-print](https://github.com/litti/hm-print) - Print CCU Programs.
