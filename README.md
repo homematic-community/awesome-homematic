@@ -96,6 +96,7 @@
 
 This Smart Home Software supports Homematic:
 
+* [FHEM](https://fhem.de/)
 * [Home Assistant](https://home-assistant.io/)
 * [IP-Symcon](https://www.symcon.de/) - **$**
 * [ioBroker](http://www.iobroker.net/?lang=de)
