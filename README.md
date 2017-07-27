@@ -57,7 +57,7 @@
 * [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired compatible Devices.
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Several Homebrew Sensors/Actuators for Homematic Wired.
 * [NewAskSin](https://github.com/trilu2000/NewAskSin) - Arduino-Library to create Homematic RF (BidCoS) compatible Devices.
-* [WIFFI-WZ](https://www.stall.biz/project/der-wiffi-wz-2-0-der-wohnzimmersensor) - Multi Sensor for the living room.
+* [WIFFI-WZ](https://www.stall.biz/project/der-wiffi-wz-2-0-der-wohnzimmersensor) - **$** Multi Sensor for the living room.
 
 
 ## CCU Addons
