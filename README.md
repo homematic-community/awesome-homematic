@@ -37,6 +37,7 @@
 ## Mobile Apps
 
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
+* [HomeControl](http://www.ksquare.de/myhomecontrol/) - **$** iOS
 * [Homedroid](http://www.homedroid.de/) - **$** Android
 * [HomeNOW](http://homenow.at) - **$** Android
 * [Orbylon](https://www.orbylon.de/orbylon) - **$** iOS, Android, Windows Phone
