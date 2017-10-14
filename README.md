@@ -23,6 +23,7 @@
 ## Community 
 
 * [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
+* [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog and more.
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
 
