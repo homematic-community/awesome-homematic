@@ -47,6 +47,8 @@
 
 ## CCU Alternatives
 
+* [Anleitung zur Installation der CCU auf einem x86 system](https://homematic-forum.de/forum/viewtopic.php?t=39240) - HowTo install the CCU software on x86 systems (German).
+* [dccu](https://github.com/litti/dccu2) - CCU docker image (x86).
 * [Hmcon](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. 
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [piVCCU](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch.
