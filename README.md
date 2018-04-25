@@ -37,6 +37,7 @@
 
 ## Mobile Apps
 
+* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - **$** (inApp-Purchase) - CCU-Historian Client with extended features for iOS, Android
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - **$** iOS
 * [TinyMatic](http://tinymatic.de/) - **$** Android (formerly named HomeDroid)
