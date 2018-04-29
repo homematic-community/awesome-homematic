@@ -68,6 +68,7 @@
 
 ## CCU Addons
 
+* [Ccu-addon-node-red](https://github.com/hobbyquaker/ccu-addon-node-red) - Node-RED for the Homematic CCU3 and Raspberrymatic.
 * [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - The "Leatherman" for the CCU. Connects FS20, ... (**$** EnOcean, ...)
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails.
@@ -86,7 +87,7 @@
 * [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
 * [Hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
 * [Hmcompanion](https://github.com/owagner/hmcompanion) - Generic telnet based interface.
-* [Node-red-contrib-homematic](https://github.com/firsttris/node-red-contrib-homematic) - Integrate your Homematic devices with [Node-RED](https://nodered.org).
+* [Node-red-contrib-ccu](https://github.com/hobbyquaker/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 
 
 ## Misc Software
