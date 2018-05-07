@@ -73,6 +73,7 @@
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails.
 * [Hm-print](https://github.com/litti/hm-print) - Print CCU Programs.
+* [Hm-tools](https://github.com/fhetty/hm-tools) - Collection of tools for RaspberryMatic.
 * [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - **$**
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting.
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
