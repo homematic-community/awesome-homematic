@@ -68,8 +68,6 @@
 
 ## CCU Addons
 
-* [ccu-addon-jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3 and RaspberryMatic.
-* [ccu-addon-mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic.
 * [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - The "Leatherman" for the CCU. Connects FS20, ... (**$** EnOcean, ...)
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails.
@@ -79,6 +77,8 @@
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting.
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
 * [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
+* [jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3 and RaspberryMatic.
+* [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic.
 * [RedMatic](https://github.com/hobbyquaker/RedMatic) - Node-RED for the Homematic CCU3 and RaspberryMatic.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
 * [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
