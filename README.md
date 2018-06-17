@@ -25,6 +25,7 @@
 * [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
 * [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog and more.
+* [Technikkram](https://technikkram.net) - News, Blog and more.
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
 
 
@@ -33,7 +34,6 @@
 * [Dissecting HomeMatic AES](https://git.zerfleddert.de/hmcfgusb/AES/) - BidCos Protocol AES Handshake description.
 * [Expert Parameters](https://www.homematic-inside.de/software/download/item/vortrag-expertenparameter-2017) - "Expert Parameters" and Virtual Channels for Direct Links (download links at the bottom of the page).
 * [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) - Inofficial Homematic Script Reference.
-
 
 ## Mobile Apps
 
