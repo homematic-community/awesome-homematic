@@ -20,13 +20,14 @@
 - [License](License)
 
 
-## Community 
+## Community Ressources (mostly german language)
 
 * [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
 * [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
-* [Homematic Guru](https://homematic-guru.de/) - News, Blog and more.
-* [Homematic Inside](https://www.homematic-inside.de/) - News, Blog and more.
-* [Technikkram](https://technikkram.net) - News, Blog and more.
+* [Homematic Guru](https://homematic-guru.de/) - News, Blog, Tutorials and more.
+* [Homematic Inside](https://www.homematic-inside.de/) - News, Blog, Tutorials and more.
+* [Technikkram](https://technikkram.net) - News, Blog, Tutorials and more.
+* [OwnSmartHome](https://ownsmarthome.de/category/homematic/) - News, Blog, Tutorials and more.
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
 
 
