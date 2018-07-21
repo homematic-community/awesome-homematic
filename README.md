@@ -80,7 +80,8 @@
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
 * [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3 and RaspberryMatic.
-* [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic.
+* [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic, eases the Wifi setup 
+* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon that can update RaspberryMatic itself, install update addons without reboot and eases the Wifi configuration.
 * [RedMatic](https://github.com/hobbyquaker/RedMatic) - Node-RED for the Homematic CCU3 and RaspberryMatic.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
 * [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
