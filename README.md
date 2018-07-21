@@ -22,27 +22,27 @@
 
 ## Community Ressources (mostly german language)
 
-* [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
+* [Homematic Forum](https://homematic-forum.de/) - Diskussions-Foren
 * [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
-* [Homematic Guru](https://homematic-guru.de/) - News, Blog, Tutorials and more.
-* [Homematic Inside](https://www.homematic-inside.de/) - News, Blog, Tutorials and more.
-* [Technikkram](https://technikkram.net) - News, Blog, Tutorials and more.
-* [OwnSmartHome](https://ownsmarthome.de/category/homematic/) - News, Blog, Tutorials and more.
+* [Homematic Guru](https://homematic-guru.de/) - News, Blog, Tutorials und mehr.
+* [Homematic Inside](https://www.homematic-inside.de/) - News, Blog, Tutorials und mehr.
+* [Technikkram](https://technikkram.net) - News, Blog, Tutorials und mehr.
+* [OwnSmartHome](https://ownsmarthome.de/category/homematic/) - News, Blog, Tutorials und mehr.
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
 
 
 ## Documentation
 
 * [Dissecting HomeMatic AES](https://git.zerfleddert.de/hmcfgusb/AES/) - BidCos Protocol AES Handshake description.
-* [Expert Parameters](https://www.homematic-inside.de/software/download/item/vortrag-expertenparameter-2017) - "Expert Parameters" and Virtual Channels for Direct Links (download links at the bottom of the page).
-* [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) - Inofficial Homematic Script Reference.
+* [Expert Parameters](https://www.homematic-inside.de/software/download/item/vortrag-expertenparameter-2017) - "Experten Parameter" und Virtuelle Kanaäle für Direktverknüpfungen
+* [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) - Inoffizielle Homematic Script Referenz.
 
 ## Mobile Apps
 
-* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - **$** (inApp-Purchase) - CCU-Historian Client with extended features for iOS, Android
+* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - **$** (inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - **$** iOS
-* [TinyMatic](http://tinymatic.de/) - **$** Android (formerly named HomeDroid)
+* [TinyMatic](http://tinymatic.de/) - **$** Android (ehemals: HomeDroid)
 * [HomeNOW](http://homenow.at) - **$** Android
 * [Orbylon](https://www.orbylon.de/orbylon) - **$** iOS, Android, Windows Phone
 * [Pocket Control](https://www.penzler.de) - **$** iOS
@@ -50,42 +50,42 @@
 
 ## CCU Alternatives
 
-* [Anleitung zur Installation der CCU auf einem x86 system](https://homematic-forum.de/forum/viewtopic.php?t=39240) - HowTo install the CCU software on x86 systems (German).
+* [Anleitung zur Installation der CCU auf einem x86 system](https://homematic-forum.de/forum/viewtopic.php?t=39240) - OCCU Installation auf x86 Systemen
 * [dccu](https://github.com/litti/dccu2) - CCU docker image (x86).
 <!-- * [Hmcon](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. -->
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [piVCCU](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch.
-* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
-* [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container.
+* [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
+* [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the OCCU software in a LXC Container.
 
 
-## Alternative Sensors and Actuators
+## Alternative Hardware, Mods
 
-* [Asksin_HM_LC_Sw1PBU_FM](https://github.com/jabdoa2/Asksin_HM_LC_Sw1PBU_FM) - Alternative Open Source Firmware for HM_LC_Sw1PBU_FM.
-* [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired compatible Devices.
-* [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Several Homebrew Sensors/Actuators for Homematic Wired.
-* [NewAskSin](https://github.com/trilu2000/NewAskSin) - Arduino-Library to create Homematic RF (BidCoS) compatible Devices.
-* [WIFFI-WZ](https://www.stall.biz/project/der-wiffi-wz-2-0-der-wohnzimmersensor) - **$** Multi Sensor for the living room.
+* [Asksin_HM_LC_Sw1PBU_FM](https://github.com/jabdoa2/Asksin_HM_LC_Sw1PBU_FM) - Alternative Open Source Firmware für den HM_LC_Sw1PBU_FM.
+* [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired kompatible Geräte.
+* [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Verschiedene Homebrew Sensoren/Aktoren für Homematic Wired.
+* [NewAskSin](https://github.com/trilu2000/NewAskSin) - Arduino-Library um Homematic RF (BidCoS) kompatible Geräte zu bauen.
+* [stall.biz](https://www.stall.biz/) - **$** Alternative Antennen, Multi Sensor für das Wohnzimmer, Wetterstation, ...
 
 
 ## CCU Addons
 
-* [CCU Historian](http://www.ccu-historian.de/) - Long term archive and graphing solution.
-* [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - The "Leatherman" for the CCU. Connects FS20, ... (**$** EnOcean, ...)
-* [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts.
-* [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails.
-* [Hm-print](https://github.com/litti/hm-print) - Print CCU Programs.
-* [Hm-tools](https://github.com/fhetty/hm-tools) - Collection of tools for RaspberryMatic.
+* [CCU Historian](http://www.ccu-historian.de/) - Langzeit Archiv und Graphen.
+* [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - Der "Leatherman" für die CCU. Verbindet FS20, ... (**$** EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
+* [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualisiert CUxD Logs mit Highcharts.
+* [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon für den Email Versand.
+* [Hm-print](https://github.com/litti/hm-print) - CCU Programme drucken.
+* [Hm-tools](https://github.com/fhetty/hm-tools) - Sammlung von Tools für RaspberryMatic.
 * [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - **$**
-* [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting.
+* [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic Addon für Philips Hue.
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
-* [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
+* [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Schnelles alternatives WebUI für die Homematic CCU.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3 and RaspberryMatic.
-* [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic, eases the Wifi setup 
-* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon that can update RaspberryMatic itself, eases the Wifi configuration with a GUI and can install/update other addons without reboot.
-* [RedMatic](https://github.com/hobbyquaker/RedMatic) - Node-RED for the Homematic CCU3 and RaspberryMatic.
-* [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
-* [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
+* [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic
+* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon das RaspberryMatic selbst aktualisieren kann, vereinfacht die WLAN Konfiguration mit GUI und kann andere Addons ohne Zwangsreboot installieren und aktualisieren
+* [RedMatic](https://github.com/hobbyquaker/RedMatic) - Node-RED packages as Addon for the Homematic CCU3 and RaspberryMatic.
+* [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI für die Homematic CCU.
+* [XML-API](https://github.com/hobbyquaker/xml-api) - Vereinfachter CCU Zugriff via HTTP/XML.
 
 
 ## Interfacing Software
