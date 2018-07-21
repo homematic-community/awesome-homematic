@@ -81,7 +81,7 @@
 * [HQ-WebUI](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3 and RaspberryMatic.
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic, eases the Wifi setup 
-* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon that can update RaspberryMatic itself, install update addons without reboot and eases the Wifi configuration.
+* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon that can update RaspberryMatic itself, eases the Wifi configuration with a GUI and can install/update other addons without reboot.
 * [RedMatic](https://github.com/hobbyquaker/RedMatic) - Node-RED for the Homematic CCU3 and RaspberryMatic.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
 * [XML-API](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
