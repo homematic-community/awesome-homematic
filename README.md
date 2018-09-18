@@ -61,10 +61,9 @@
 
 ## Alternative Hardware, Mods
 
-* [Asksin_HM_LC_Sw1PBU_FM](https://github.com/jabdoa2/Asksin_HM_LC_Sw1PBU_FM) - Alternative Open Source Firmware für den HM_LC_Sw1PBU_FM.
+* [AskSinPP](https://github.com/pa-pa/AskSinPP) - C++ implementation of the AskSin protocol.
 * [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired kompatible Geräte.
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Verschiedene Homebrew Sensoren/Aktoren für Homematic Wired.
-* [NewAskSin](https://github.com/trilu2000/NewAskSin) - Arduino-Library um Homematic RF (BidCoS) kompatible Geräte zu bauen.
 * [stall.biz](https://www.stall.biz/) - **$** Alternative Antennen, Multi Sensor für das Wohnzimmer, Wetterstation, ...
 
 
