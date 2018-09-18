@@ -16,7 +16,7 @@
 - [Interfacing Software](#interfacing-software)
 - [Misc Software](#misc-software)
 - [Software Modules](#software-modules)
-- [Generic Smart Home Software](#generic-smart-home-software)
+- [Smart Home Software](#smart-home-software-supporting-homematic)
 - [License](License)
 
 
