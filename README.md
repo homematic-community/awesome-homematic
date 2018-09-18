@@ -2,7 +2,7 @@
 
 > A curated list of Homematic related links
 
-[Homematic](http://www.homematic.com/) is a series of Smart Home devices from the german manufacturer [eQ-3](http://www.eq-3.de). 
+[Homematic](http://www.homematic.com/) is a series of Smart Home devices from the manufacturer [eQ-3](http://www.eq-3.de), popular especially in Germany.
 
 
 ## Contents
@@ -60,7 +60,7 @@
 * [YAHM](https://github.com/leonsio/YAHM) - Setup Scripts to run the OCCU software in a LXC Container.
 
 
-## Alternative Hardware, Mods
+## Alternative Sensors, Actuators and Hardware Modifications
 
 * [Beispiel_AskSinPP](https://github.com/jp112sdl/Beispiel_AskSinPP) - Beispiel für die Verwendung der [AskSinPP](https://github.com/pa-pa/AskSinPP) Bibliothek
 * [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired kompatible Geräte.
@@ -115,9 +115,7 @@
 * [Pmatic](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
 * [Pyhomematic](https://github.com/danielperna84/pyhomematic) - Python 3 Interface to interact with Homematic devices.
 
-## Generic Smart Home Software
-
-These smart home software solutions support Homematic:
+## Smart Home Software supporting Homematic
 
 * [FHEM](https://fhem.de/)
 * [Home Assistant](https://home-assistant.io/)
