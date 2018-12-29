@@ -59,7 +59,8 @@
 
 ## Alternative Sensors, Actuators and Hardware Modifications
 
-* [Beispiel_AskSinPP](https://github.com/jp112sdl/Beispiel_AskSinPP) - Beispiel für die Verwendung der [AskSinPP](https://github.com/pa-pa/AskSinPP) Bibliothek
+* [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) - Einführung, Dokumentation und Projekte rund um Selbstbau-Komponenten mit AskSinPP
+* [Beispiel_AskSinPP](https://github.com/jp112sdl/Beispiel_AskSinPP) - Beispiel Sketche für die Verwendung der [AskSinPP](https://github.com/pa-pa/AskSinPP) Bibliothek
 * [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired kompatible Geräte.
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Verschiedene Homebrew Sensoren/Aktoren für Homematic Wired.
 * [stall.biz](https://www.stall.biz/) - **$** Alternative Antennen, Multi Sensor für das Wohnzimmer, Wetterstation, ...
