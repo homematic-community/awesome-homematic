@@ -40,6 +40,7 @@
 
 ## Mobile Apps
 
+* [@home](http://athomeapp.de/) - iOS
 * [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - **$** (inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - **$** iOS
