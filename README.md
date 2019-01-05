@@ -28,6 +28,7 @@
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog, Tutorials und mehr.
 * [Technikkram](https://technikkram.net) - News, Blog, Tutorials und mehr.
 * [OwnSmartHome](https://ownsmarthome.de/category/homematic/) - News, Blog, Tutorials und mehr.
+* [Verdrahtet](https://www.verdrahtet.info/) - News, Blog, Youtube, Tutorials, ...
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
 
 
