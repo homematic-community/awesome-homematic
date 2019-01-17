@@ -22,6 +22,7 @@
 
 ## Community Ressources (mostly german language)
 
+* [Haus Automatisierung](https://haus-automatisierung.com/) - News, Blog, Youtube, Tutorials, ...
 * [Homematic Forum](https://homematic-forum.de/) - Diskussions-Foren
 * [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
 * [Homematic Guru](https://homematic-guru.de/) - News, Blog, Tutorials und mehr.
