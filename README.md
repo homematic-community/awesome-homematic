@@ -43,13 +43,13 @@
 ## Mobile Apps
 
 * [@home](http://www.athomeapp.de/) - iOS
-* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - **$** (inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android
-* [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
-* [HomeControl](http://www.ksquare.de/myhomecontrol/) - **$** iOS
-* [TinyMatic](https://www.tinymatic.de/) - **$** Android (ehemals: HomeDroid)
-* [HomeNOW](http://homenow.at) - **$** Android
-* [Orbylon](https://www.orbylon.de/orbylon) - **$** iOS, Android, Windows Phone
-* [Pocket Control](https://www.penzler.de) - **$** iOS
+* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - 💵 (inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android
+* [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - 💵 Android 
+* [HomeControl](http://www.ksquare.de/myhomecontrol/) - 💵 iOS
+* [TinyMatic](https://www.tinymatic.de/) - 💵 Android (ehemals: HomeDroid)
+* [HomeNOW](http://homenow.at) - 💵 Android
+* [Orbylon](https://www.orbylon.de/orbylon) - 💵 iOS, Android, Windows Phone
+* [Pocket Control](https://www.penzler.de) - 💵 iOS
 
 
 ## CCU Alternatives
@@ -64,21 +64,21 @@
 
 * [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) - Einführung, Dokumentation und Projekte rund um Selbstbau-Komponenten mit AskSinPP
 * [Beispiel_AskSinPP](https://github.com/jp112sdl/Beispiel_AskSinPP) - Beispiel Sketche für die Verwendung der [AskSinPP](https://github.com/pa-pa/AskSinPP) Bibliothek
-* [HAUS-BUS.DE](http://www.haus-bus.de/) - **$** Homematic Wired kompatible Geräte.
+* [HAUS-BUS.DE](http://www.haus-bus.de/) - 💵 Homematic Wired kompatible Geräte.
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) - Verschiedene Homebrew Sensoren/Aktoren für Homematic Wired.
-* [stall.biz](https://www.stall.biz/) - **$** Alternative Antennen, Multi Sensor für das Wohnzimmer, Wetterstation, ...
+* [stall.biz](https://www.stall.biz/) - 💵 Alternative Antennen, Multi Sensor für das Wohnzimmer, Wetterstation, ...
 
 
 ## CCU Addons
 
 * [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
-* [CUxD](https://www.homematic-inside.de/addons) - Der "Leatherman" für die CCU. Verbindet FS20, ... (**$** EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
+* [CUxD](https://www.homematic-inside.de/addons) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualisiert CUxD Logs mit Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon für den Email Versand.
 * [Hm-print](https://github.com/litti/hm-print) - CCU Programme drucken.
 * [Hm-tools](https://github.com/fhetty/hm-tools) - Sammlung von Tools für RaspberryMatic.
 * [Hm_pdetect](https://github.com/jens-maus/hm_pdetect) - Anwesenheitserkennung über die FRITZ!-Box
-* [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - **$**
+* [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - 💵
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic Addon für Philips Hue.
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3.
@@ -122,8 +122,8 @@
 * [FHEM](https://fhem.de/)
 * [Home Assistant](https://www.home-assistant.io/)
 * [ioBroker](http://www.iobroker.net/?lang=de)
-* [IP-Symcon](https://www.symcon.de/) - **$**
-* [Mediola](https://www.mediola.com/) - **$**
+* [IP-Symcon](https://www.symcon.de/) - 💵
+* [Mediola](https://www.mediola.com/) - 💵
 * [OpenHAB](https://www.openhab.org/)
 * [Pimatic](https://pimatic.org/)
 
