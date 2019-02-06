@@ -2,7 +2,7 @@
 
 > A curated list of Homematic related links
 
-[Homematic](http://www.homematic.com/) is a series of Smart Home devices from the manufacturer [eQ-3](http://www.eq-3.de), popular especially in Germany.
+[Homematic](https://www.homematic.com/) is a series of Smart Home devices from the manufacturer [eQ-3](https://www.eq-3.de), popular especially in Germany.
 
 
 ## Contents
@@ -23,7 +23,7 @@
 ## Community Ressources (mostly german language)
 
 * [Haus Automatisierung](https://haus-automatisierung.com/) - News, Blog, Youtube, Tutorials, ...
-* [Homematic Forum](https://homematic-forum.de/) - Diskussions-Foren
+* [Homematic Forum](https://homematic-forum.de/forum/) - Diskussions-Foren
 * [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
 * [Homematic Guru](https://homematic-guru.de/) - News, Blog, Tutorials und mehr.
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog, Tutorials und mehr.
@@ -42,11 +42,11 @@
 
 ## Mobile Apps
 
-* [@home](http://athomeapp.de/) - iOS
+* [@home](http://www.athomeapp.de/) - iOS
 * [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - **$** (inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - **$** iOS
-* [TinyMatic](http://tinymatic.de/) - **$** Android (ehemals: HomeDroid)
+* [TinyMatic](http://www.tinymatic.de/) - **$** Android (ehemals: HomeDroid)
 * [HomeNOW](http://homenow.at) - **$** Android
 * [Orbylon](https://www.orbylon.de/orbylon) - **$** iOS, Android, Windows Phone
 * [Pocket Control](https://www.penzler.de) - **$** iOS
@@ -71,8 +71,8 @@
 
 ## CCU Addons
 
-* [CCU Historian](http://www.ccu-historian.de/) - Langzeit Archiv und Graphen.
-* [CUxD](https://www.homematic-inside.de/software/cuxdaemon) - Der "Leatherman" für die CCU. Verbindet FS20, ... (**$** EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
+* [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
+* [CUxD](https://www.homematic-inside.de/addons) - Der "Leatherman" für die CCU. Verbindet FS20, ... (**$** EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualisiert CUxD Logs mit Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon für den Email Versand.
 * [Hm-print](https://github.com/litti/hm-print) - CCU Programme drucken.
@@ -84,7 +84,7 @@
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic
 * [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon das RaspberryMatic selbst aktualisieren kann, vereinfacht die WLAN Konfiguration mit GUI und kann andere Addons ohne Zwangsreboot installieren und aktualisieren
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) - Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic
-* [RedMatic](https://github.com/hobbyquaker/RedMatic) - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
+* [RedMatic](https://github.com/HM-RedMatic/RedMatic) - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI für die Homematic CCU.
 * [XML-API](https://github.com/hobbyquaker/xml-api) - Vereinfachter CCU Zugriff via HTTP/XML.
 * [Hm_pdetect](https://github.com/jens-maus/hm_pdetect) - Anwesenheitserkennung über die FRITZ!-Box
@@ -95,7 +95,7 @@
 * [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform.
 * [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
 * [Hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
-* [Node-red-contrib-ccu](https://github.com/hobbyquaker/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
+* [Node-red-contrib-ccu](https://github.com/HM-RedMatic/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 
 
 ## Misc Software
@@ -120,10 +120,10 @@
 ## Smart Home Software supporting Homematic
 
 * [FHEM](https://fhem.de/)
-* [Home Assistant](https://home-assistant.io/)
+* [Home Assistant](https://www.home-assistant.io/)
 * [ioBroker](http://www.iobroker.net/?lang=de)
 * [IP-Symcon](https://www.symcon.de/) - **$**
-* [Mediola](http://www.mediola.com/) - **$**
+* [Mediola](https://www.mediola.com/) - **$**
 * [OpenHAB](https://www.openhab.org/)
 * [Pimatic](https://pimatic.org/)
 
