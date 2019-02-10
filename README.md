@@ -54,7 +54,7 @@
 
 ## CCU Alternatives
 
-* [Anleitung zur Installation der CCU auf einem x86 system](https://homematic-forum.de/forum/viewtopic.php?t=39240) - OCCU Installation auf x86 Systemen
+* [debmatic](https://github.com/alexreinert/debmatic) - install the Homematic OCCU on Debian based x86 and arm systems (Debian, Ubuntu, Raspbian, Armbian)
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [piVCCU](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch.
 * [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
