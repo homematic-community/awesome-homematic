@@ -17,6 +17,7 @@
 - [Misc Software](#misc-software)
 - [Software Modules](#software-modules)
 - [Smart Home Software](#smart-home-software-supporting-homematic)
+- [Verschiedenes](#misc)
 - [License](License)
 
 
@@ -126,6 +127,10 @@
 * [Mediola](https://www.mediola.com/) - 💵
 * [OpenHAB](https://www.openhab.org/)
 * [Pimatic](https://pimatic.org/)
+
+## Misc
+
+* [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) - Rahmen für Unterputzmontage von Tablets.
 
 
 ## Contribute
