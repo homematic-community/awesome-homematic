@@ -119,6 +119,7 @@
 
 ## Smart Home Software supporting Homematic
 
+* [everHome](https://everhome.de) - 💵
 * [FHEM](https://fhem.de/)
 * [Home Assistant](https://www.home-assistant.io/)
 * [ioBroker](http://www.iobroker.net/?lang=de)
