@@ -92,7 +92,6 @@
 
 ## Interfacing Software
 
-* [Hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
 * [Node-red-contrib-ccu](https://github.com/HM-RedMatic/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 
 
