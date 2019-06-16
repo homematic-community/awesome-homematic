@@ -49,7 +49,6 @@
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - 💵 Android 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - 💵 iOS
 * [TinyMatic](https://www.tinymatic.de/) - 💵 Android (ehemals: HomeDroid)
-* [HomeNOW](http://homenow.at) - 💵 Android
 * [Pocket Control](https://www.penzler.de) - 💵 iOS
 
 
@@ -93,8 +92,6 @@
 
 ## Interfacing Software
 
-* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge](https://github.com/nfarina/homebridge) Platform.
-* [Homematic-Virtual-Interface](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
 * [Hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
 * [Node-red-contrib-ccu](https://github.com/HM-RedMatic/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 
