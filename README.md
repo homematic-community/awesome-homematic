@@ -44,7 +44,7 @@
 
 ## Mobile Apps
 
-* [@home](http://www.athomeapp.de/) - iOS - (💵 inApp-Purchase um Werbung zu entfernen)
+* [@home](https://www.athomeapp.de/) - iOS - (💵 inApp-Purchase um Werbung zu entfernen)
 * [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) - (💵 inApp-Purchase) - CCU-Historian Client mit erweitereten Features für iOS und Android
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - 💵 Android 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - 💵 iOS
@@ -55,7 +55,7 @@
 ## CCU Alternatives
 
 * [debmatic](https://github.com/alexreinert/debmatic) - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
-* [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
+* [Homegear](https://homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [piVCCU](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch.
 * [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 
@@ -72,7 +72,7 @@
 ## CCU Addons
 
 * [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
-* [CUxD](https://www.homematic-inside.de/addons) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
+* [CUxD](https://www.homematic-inside.de/software/tag/Zusatzsoftware ) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
 * [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) - Visualisiert CUxD Logs mit Highcharts.
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon für den Email Versand.
 * [hm-print](https://github.com/litti/hm-print) - CCU Programme drucken.
@@ -85,14 +85,14 @@
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) - Mosquitto packaged as Addon for the Homematic CCU3 and RaspberryMatic
 * [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) - RaspberryMatic Addon das RaspberryMatic selbst aktualisieren kann, vereinfacht die WLAN Konfiguration mit GUI und kann andere Addons ohne Zwangsreboot installieren und aktualisieren
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) - Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic
-* [RedMatic](https://github.com/HM-RedMatic/RedMatic) - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
+* [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/) als Addon für die Homematic CCU3 und RaspberryMatic. Liefert u.A. komfortable HomeKit-Integration und spezielle Nodes zur Anbindung der CCU an MQTT mit.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI für die Homematic CCU.
 * [XML-API](https://github.com/hobbyquaker/xml-api) - Vereinfachter CCU Zugriff via HTTP/XML.
 
 
 ## Interfacing Software
 
-* [node-red-contrib-ccu](https://github.com/HM-RedMatic/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
+* [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 
 
 ## Misc Software
@@ -120,7 +120,7 @@
 * [everHome](https://everhome.de) - 💵
 * [FHEM](https://fhem.de/)
 * [Home Assistant](https://www.home-assistant.io/)
-* [ioBroker](http://www.iobroker.net/?lang=de)
+* [ioBroker](https://www.iobroker.net/?lang=de)
 * [IP-Symcon](https://www.symcon.de/) - 💵
 * [Mediola](https://www.mediola.com/) - 💵
 * [OpenHAB](https://www.openhab.org/)
@@ -139,4 +139,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[Public Domain CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+[Public Domain CC0](https://creativecommons.org/publicdomain/zero/1.0/)
