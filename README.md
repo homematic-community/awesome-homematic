@@ -93,6 +93,7 @@
 
 ## Interfacing Software
 
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Homematic plugin for [homebridge](https://homebridge.io), a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Nodes for the Homematic CCU.
 
 
