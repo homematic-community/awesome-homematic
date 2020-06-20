@@ -29,6 +29,7 @@
 * [Homematic Forum: HomeMatic - Tipps für Anfänger](https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801) - Pflichtlektüre für Einsteiger von Sammy
 * [Homematic Guru](https://homematic-guru.de/) - News, Blog, Tutorials und mehr.
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog, Tutorials und mehr.
+* [Homematic Blog Lison](https://homematic-blog.lison.ch/) - Blog, Tutorials und mehr..
 * [Technikkram](https://technikkram.net) - News, Blog, Tutorials und mehr.
 * [OwnSmartHome](https://ownsmarthome.de/category/homematic/) - News, Blog, Tutorials und mehr.
 * [Verdrahtet](https://www.verdrahtet.info/) - News, Blog, Youtube, Tutorials, ...
