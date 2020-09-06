@@ -117,6 +117,7 @@
 * [hm-discover](https://github.com/hobbyquaker/hm-discover) - Node.js module to discover Homematic CCUs and interfaces.
 * [homematic-rega](https://github.com/hobbyquaker/homematic-rega) - Node.js Homematic CCU ReGaHSS Remote Script Interface.
 * [homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api) - Python wrapper for the homematicIP REST API (Cloud / Access Point Based).
+* [homematic-gqls](https://github.com/martin-riedl/homematic-gqls) - A GraphQL service to query Homematic IP components based on [homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api).
 * [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) - Xmlrpc client and server Node.js module.
 * [pmatic](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
 * [pyhomematic](https://github.com/danielperna84/pyhomematic) - Python 3 Interface to interact with Homematic devices.
