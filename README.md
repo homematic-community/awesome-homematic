@@ -77,6 +77,7 @@
 * [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
 * [CUxD](https://www.homematic-inside.de/software/tag/Zusatzsoftware ) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
 * [Email](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon für den Email Versand.
+* [HAP-HomeMatic](https://github.com/thkl/hap-homematic) - RaspberryMatic / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like https://github.com/thkl/homebridge-homematic but without homebridge.
 * [hm-print](https://github.com/litti/hm-print) - CCU Programme drucken.
 * [hm-tools](https://github.com/fhetty/hm-tools) - Sammlung von Tools für RaspberryMatic.
 * [hm_pdetect](https://github.com/jens-maus/hm_pdetect) - Anwesenheitserkennung über die FRITZ!-Box
