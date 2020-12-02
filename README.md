@@ -52,6 +52,7 @@
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - 💵 iOS
 * [TinyMatic](https://www.tinymatic.de/) - 💵 Android (ehemals: HomeDroid)
 * [Pocket Control](https://www.penzler.de) - 💵 iOS
+* [Battery Status for HomeMatic](https://zeezide.com/en/products/hmbattery/) - 💵 iOS
 
 
 ## CCU Alternatives
