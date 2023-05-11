@@ -82,7 +82,6 @@
 * [hm-print](https://github.com/litti/hm-print) - CCU Programme drucken.
 * [hm-tools](https://github.com/fhetty/hm-tools) - Sammlung von Tools für RaspberryMatic.
 * [hm_pdetect](https://github.com/jens-maus/hm_pdetect) - Anwesenheitserkennung über die FRITZ!-Box
-* [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - 💵
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic Addon für Philips Hue.
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3.
