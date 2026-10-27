@@ -83,6 +83,8 @@ software or your own scripts.
 ## CCU Addons
 
 * [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
+* [ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery) - Statistiken über den Batterieverbrauch von Homematic Geräten
+* [ccu-addon-longpressdim](https://github.com/hobbyquaker/ccu-addon-longpressdim) - Dimmen mit langen Tastendruck über Schnittstellen- und Systemgrenzen hinweg.
 * [ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui) - Moderne, responsive Progressive Web App (PWA) für die CCU3 mit integriertem WebSocket-Server.
 * [CUxD](https://github.com/jens-maus/cuxd) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
 * [CUxD-Highcharts](https://github.com/homematic-community/CUxD-Highcharts) - Visualisiert CUxD DEVLOGS mit Highcharts/Highstock (verwaist, Maintainer gesucht).
